@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-04T19:41:19.349Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="RmZM_puFwy3miSQSbM-1" version="20.2.2" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-08-04T20:12:28.661Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="J8Jl-C7XeklwGrUdIfbq" version="20.2.2" type="github" pages="5">
   <diagram id="_mv9E0wV8mDrfRzDDcEX" name="BST Insertion">
     <mxGraphModel dx="3553" dy="1787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -1060,7 +1060,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="hZtZMvLHJ39t8O7UPFRP" name="Page-5">
+  <diagram id="hZtZMvLHJ39t8O7UPFRP" name="AVL Conversion">
     <mxGraphModel dx="2953" dy="1531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
